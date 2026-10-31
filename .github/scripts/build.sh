@@ -148,6 +148,10 @@ cat > "$SITE/index.html" << 'HTMLEOF'
 <hr>
 
 <h2>経から引く</h2>
+<h3>般若部</h3>
+<ul>
+  <li><a href="T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.html">般若波羅蜜多心経 ― 共創数学による訳（大正蔵 No. 251・日本語）</a></li>
+</ul>
 <h3>浄土三部経</h3>
 <ul>
   <li><a href="T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.html">仏説無量寿経 ― 共創数学による訳（大正蔵 No. 360・日本語）</a></li>

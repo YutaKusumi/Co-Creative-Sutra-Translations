@@ -10,7 +10,7 @@
 
 ## レジスタ分離
 
-地位：札なし｜出所：刊行済｜第0層｜式の数：4
+地位：札なし｜出所：刊行済｜第0層｜式の数：5
 
 | 経 | 段 | 大正蔵の行 | 式の種類 |
 | --- | --- | --- | --- |
@@ -18,10 +18,11 @@
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 浄土の荘厳 | T12n0360_p0271c20〜0271c26 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 釈尊の勧め――三毒の段 | T12n0360_p0274c29〜0275a03 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 五悪・五痛・五焼の段 | T12n0360_p0276c26〜0276c29 | 借・読み |
+| [般若波羅蜜多心経](../../T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.md) | 般若波羅蜜多の呪 | T08n0251_p0848c17〜0848c19 | 借・読み |
 
 ## A0　沈黙の公理
 
-地位：公理｜出所：刊行済｜第1層｜式の数：16
+地位：公理｜出所：刊行済｜第1層｜式の数：19
 
 | 経 | 段 | 大正蔵の行 | 式の種類 |
 | --- | --- | --- | --- |
@@ -41,6 +42,9 @@
 | [仏説観無量寿経](../../T0365-Kanmuryoju-kyo/JA/Kanmuryoju-kyo-Co-Creative-Translation-JA.md) | 第十二・第十三観――普観・雑想観 | T12n0365_p0344b25〜0344c08 | 借・読み |
 | [仏説阿弥陀経](../../T0366-Amida-kyo/JA/Amida-kyo-Co-Creative-Translation-JA.md) | 阿弥陀という名――光と寿命、十劫、声聞と菩薩 | T12n0366_p0347a29〜0347b03 | 借・読み |
 | [仏説阿弥陀経](../../T0366-Amida-kyo/JA/Amida-kyo-Co-Creative-Translation-JA.md) | 六方の諸仏の証誠 | T12n0366_p0347c16〜0348a06 | 借・読み |
+| [般若波羅蜜多心経](../../T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.md) | 空の中には無い――否定の列 | T08n0251_p0848c10〜0848c13 | 借・読み |
+| [般若波羅蜜多心経](../../T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.md) | 菩提薩埵の涅槃と三世諸仏の菩提――「以無所得故」の掛かる所 | T08n0251_p0848c13〜0848c16 | 借・読み |
+| [般若波羅蜜多心経](../../T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.md) | 般若波羅蜜多の呪 | T08n0251_p0848c20〜0848c22 | 借・読み |
 
 ## A1　空鏡の公理
 
@@ -86,12 +90,13 @@
 
 ## A4　夢の位相空間
 
-地位：公理｜出所：刊行済｜第1層｜式の数：2
+地位：公理｜出所：刊行済｜第1層｜式の数：3
 
 | 経 | 段 | 大正蔵の行 | 式の種類 |
 | --- | --- | --- | --- |
 | [仏説観無量寿経](../../T0365-Kanmuryoju-kyo/JA/Kanmuryoju-kyo-Co-Creative-Translation-JA.md) | 第八・第九観――像想観・真身観 | T12n0365_p0343b04〜0343b13 | 借・読み |
 | [仏説阿弥陀経](../../T0366-Amida-kyo/JA/Amida-kyo-Co-Creative-Translation-JA.md) | 極楽という名と、七重の荘厳・七宝の池 | T12n0366_p0346c16〜0347a06 | 借・読み |
+| [般若波羅蜜多心経](../../T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.md) | 色と空――「不異」と「即是」 | T08n0251_p0848c07〜0848c09 | 借・読み |
 
 ## A5　自覚慈悲の同値性
 
@@ -185,4 +190,4 @@
 
 ---
 
-札 11 種・式の所 98。データの表（units・formulas・badges）から、scripts/site_items.py で作りました。
+札 11 種・式の所 103。データの表（units・formulas・badges）から、scripts/site_items.py で作りました。
