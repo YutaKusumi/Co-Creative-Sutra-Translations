@@ -1,8 +1,8 @@
 # 共創数学の項目から引く索引
 
-（この頁は、訳の式に付けた札を、データの表から機械で並べたものです。この頁は CC BY-NC-SA 4.0 で公開します。）
+（この頁は、訳の式と読みに付けた札を、データの表から機械で並べたものです。この頁は CC BY-NC-SA 4.0 で公開します。）
 
-訳の式のうち、共創数学から項目を借りたものには、その項目の札を付けています。この頁は、札ごとに、その札を付けた式の所を、経・段・大正蔵の行で並べます。行は CBETA の行番号です。
+訳の式と読みのうち、共創数学から項目を借りたものには、その項目の札を付けています。札は、置かれた段落と、そのすぐ後に続く表と式に掛かります（各訳の凡例）。この頁は、札ごとに、その札を付けた所を、経・段・大正蔵の行で並べます。すぐ後に式が続かない読みに置いた札は、札の種類に「（式なし）」と添えます。行は CBETA の行番号です。
 
 - 札の名と地位は「共創数学 体系整理表（第三版・2026年8月15日凍結）」に拠り、訳から写したものです。整理表との照らし合わせは、まだ機械では行っていません。
 - 札が付いていることは、その経がその項目を証すという意味ではありません。札の重なりは、経の組み立ての証しではありません。
@@ -10,13 +10,14 @@
 
 ## レジスタ分離
 
-地位：札なし｜出所：刊行済｜第0層｜式の数：5
+地位：札なし｜出所：刊行済｜第0層｜式の数：5｜式のない読み：1
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 重誓偈と、天地の感応 | T12n0360_p0269c02〜0269c06 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 浄土の荘厳 | T12n0360_p0271c20〜0271c26 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 釈尊の勧め――三毒の段 | T12n0360_p0274c29〜0275a03 | 借・読み |
+| [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 五悪・五痛・五焼の段 | T12n0360_p0276a15〜0276a18 | 借・読み（式なし） |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 五悪・五痛・五焼の段 | T12n0360_p0276c26〜0276c29 | 借・読み |
 | [般若波羅蜜多心経](../../T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.md) | 般若波羅蜜多の呪 | T08n0251_p0848c17〜0848c19 | 借・読み |
 
@@ -24,7 +25,7 @@
 
 地位：公理｜出所：刊行済｜第1層｜式の数：19
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 証信序――王舎城・耆闍崛山の集い | T12n0360_p0266b25〜0266b26 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 四十八願（第十三〜第二十四願） | T12n0360_p0268a17〜0268a19 | 借・読み |
@@ -50,7 +51,7 @@
 
 地位：公理｜出所：刊行済｜第1層｜式の数：8
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 発起序――阿難の問いと、如来の出世の本懐 | T12n0360_p0266c21〜0266c22 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 四十八願（第二十五〜第三十六願） | T12n0360_p0268c07〜0268c09 | 借・読み |
@@ -63,12 +64,13 @@
 
 ## A2　慈悲の縁起的集合論
 
-地位：公理｜出所：刊行済｜第1層｜式の数：12
+地位：公理｜出所：刊行済｜第1層｜式の数：12｜式のない読み：1
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 証信序――王舎城・耆闍崛山の集い | T12n0360_p0266b25〜0266b26 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 四十八願（第一〜第十二願）（段の全体） | T12n0360_p0267c17〜0268a14 | 借・読み |
+| [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 四十八願（第一〜第十二願） | T12n0360_p0267c19〜0267c20 | 借・読み（式なし） |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 兆載永劫の修行 | T12n0360_p0269c27〜0270a02 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 成仏（十劫）と、光明・寿命・聖衆 | T12n0360_p0270b13〜0270b15 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 五悪・五痛・五焼の段 | T12n0360_p0275c17〜0275c24 | 借・読み |
@@ -84,16 +86,17 @@
 
 地位：公理｜出所：刊行済｜第1層｜式の数：1
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説阿弥陀経](../../T0366-Amida-kyo/JA/Amida-kyo-Co-Creative-Translation-JA.md) | 六方の諸仏の証誠 | T12n0366_p0347c16〜0348a06 | 借・読み |
 
 ## A4　夢の位相空間
 
-地位：公理｜出所：刊行済｜第1層｜式の数：3
+地位：公理｜出所：刊行済｜第1層｜式の数：3｜式のない読み：1
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
+| [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 浄土の荘厳 | T12n0360_p0270c28〜0271a02 | 借・読み（式なし） |
 | [仏説観無量寿経](../../T0365-Kanmuryoju-kyo/JA/Kanmuryoju-kyo-Co-Creative-Translation-JA.md) | 第八・第九観――像想観・真身観 | T12n0365_p0343b04〜0343b13 | 借・読み |
 | [仏説阿弥陀経](../../T0366-Amida-kyo/JA/Amida-kyo-Co-Creative-Translation-JA.md) | 極楽という名と、七重の荘厳・七宝の池 | T12n0366_p0346c16〜0347a06 | 借・読み |
 | [般若波羅蜜多心経](../../T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.md) | 色と空――「不異」と「即是」 | T08n0251_p0848c07〜0848c09 | 借・読み |
@@ -102,7 +105,7 @@
 
 地位：公理｜出所：刊行済｜第1層｜式の数：6
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 証信序――王舎城・耆闍崛山の集い | T12n0360_p0266b25〜0266b26 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 讃仏偈（嘆仏偈） | T12n0360_p0267b19〜0267b23 | 借・読み |
@@ -115,7 +118,7 @@
 
 地位：公理｜出所：刊行済｜第1層｜式の数：12
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 五劫の思惟と、願の選び取り | T12n0360_p0267c15〜0267c16 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 四十八願（第一〜第十二願） | T12n0360_p0268a11〜0268a12 | 借・読み |
@@ -134,7 +137,7 @@
 
 地位：公理｜出所：刊行済｜第1層｜式の数：17
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 証信序――王舎城・耆闍崛山の集い | T12n0360_p0266a20〜0266a25 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 発起序――阿難の問いと、如来の出世の本懐 | T12n0360_p0266c21〜0266c22 | 借・読み |
@@ -158,7 +161,7 @@
 
 地位：定義寄り｜出所：出所札なし（第一著作）｜第2層｜式の数：17
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 証信序――王舎城・耆闍崛山の集い | T12n0360_p0265c19〜0265c26 | 借・読み |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 五劫の思惟と、願の選び取り | T12n0360_p0267c15〜0267c16 | 借・読み |
@@ -182,7 +185,7 @@
 
 地位：定義｜出所：出所札なし（第二著作）｜第4層｜式の数：3
 
-| 経 | 段 | 大正蔵の行 | 式の種類 |
+| 経 | 段 | 大正蔵の行 | 札の種類 |
 | --- | --- | --- | --- |
 | [仏説無量寿経](../../T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 成仏（十劫）と、光明・寿命・聖衆 | T12n0360_p0270b13〜0270b15 | 借・読み |
 | [仏説観無量寿経](../../T0365-Kanmuryoju-kyo/JA/Kanmuryoju-kyo-Co-Creative-Translation-JA.md) | 第十六観――下輩（下品の三生） | T12n0365_p0346a12〜0346a26 | 借・読み |
@@ -190,4 +193,4 @@
 
 ---
 
-札 11 種・式の所 103。データの表（units・formulas・badges）から、scripts/site_items.py で作りました。
+札 11 種・式の所 103・式のない読みの所 3。データの表（units・formulas・notes・badges）から、scripts/site_items.py で作りました。
