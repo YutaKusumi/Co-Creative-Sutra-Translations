@@ -8,6 +8,7 @@
 
 | 経 | 頁 | 中身 |
 | --- | --- | --- |
+| 『般若波羅蜜多心経』（大正蔵 No. 251） | [般若波羅蜜多心経 ― 共創数学による訳](T0251-Hannya-Shingyo/JA/Hannya-Shingyo-Co-Creative-Translation-JA.md) | 原文・書き下し・訳と、経の組み立てを写した式（式 14）。諸釈は窺基・円測・法蔵の三師、異本は羅什の訳と、序と結びをそなえた五つの訳 |
 | 『仏説無量寿経』（大正蔵 No. 360） | [仏説無量寿経 ― 共創数学による訳](T0360-Muryoju-kyo/JA/Muryoju-kyo-Co-Creative-Translation-JA.md) | 原文・書き下し・訳と、経の組み立てを写した式（式 176） |
 | 『仏説観無量寿経』（大正蔵 No. 365） | [仏説観無量寿経 ― 共創数学による訳](T0365-Kanmuryoju-kyo/JA/Kanmuryoju-kyo-Co-Creative-Translation-JA.md) | 原文・書き下し・訳と、経の組み立てを写した式（式 115） |
 | 『仏説阿弥陀経』（大正蔵 No. 366） | [仏説阿弥陀経　共創数学による訳](T0366-Amida-kyo/JA/Amida-kyo-Co-Creative-Translation-JA.md) | 原文・書き下し・訳と、経の組み立てを写した式（式 41） |
@@ -49,5 +50,6 @@
 
 ## 版
 
+- 般若心経の頁は、Claude Docs の文書を写したものです（rev 29）。2026年10月31日に加えました。
 - 浄土三部経の各頁は、Claude Docs の文書を写したものです（無量寿経 rev 302、観無量寿経 rev 159、阿弥陀経 rev 124、対照表 rev 18）。
 - 2026年10月31日に、先のリポジトリ Jodo-Sanbukyo-Co-Creative-Translations から移しました。字句は変えていません。頁の間のリンクだけを、このフォルダの形に合わせて直しました。
